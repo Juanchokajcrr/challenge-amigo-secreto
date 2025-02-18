@@ -1,12 +1,23 @@
-<h1> Challenge Amigo Secreto Alura LATAM </h1>
+# Challenge Amigo Secreto Alura LATAM
 
--Estado del proyecto: En construccion.
+## Estado del proyecto
+Finalizado.
 
-```Fucionalidades:```
-```Agregar nombres:``` Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
+## Descripción
+Este proyecto permite a los usuarios agregar nombres de amigos a una lista y realizar un sorteo aleatorio para seleccionar un "amigo secreto". Es una aplicación web simple que utiliza JavaScript para manejar la lógica y manipulación.
 
-```Validar entrada:``` Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
+## Funcionalidades
+- **Agregar nombres:** Los usuarios pueden escribir el nombre de uno o varios amigos en un campo de texto y agregarlos a una lista visible al hacer clic en "Adicionar".
+- **Validar entrada:** Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
+- **Visualizar la lista:** Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
+- **Sorteo aleatorio:** Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
-```Visualizar la lista:``` Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
+## Tecnologías utilizadas
+- HTML
+- CSS
+- **JavaScript**
 
-```Sorteo aleatorio:``` Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+## Cómo ejecutar el proyecto
+1. Clona este repositorio en tu máquina local.
+   ```bash
+   git clone https://github.com/Juanchokajcrr/challenge-amigo-secreto.git
