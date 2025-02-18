@@ -21,3 +21,6 @@ Este proyecto permite a los usuarios agregar nombres de amigos a una lista y rea
 1. Clona este repositorio en tu máquina local.
    ```bash
    git clone https://github.com/Juanchokajcrr/challenge-amigo-secreto.git
+2. Abre el siguiente link en el navegador.
+   ```bash
+   https://juanchokajcrr.github.io/challenge-amigo-secreto/
